@@ -1,4 +1,4 @@
-package com.practice;
+package com.practice.constant;
 
 public class ProcessConstant {
     public static final String FAILURE_RESULTS = "failResults";

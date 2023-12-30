@@ -1,6 +1,6 @@
 package com.practice.executor;
 
-import com.practice.ProcessConstant;
+import com.practice.constant.ProcessConstant;
 import com.practice.repository.ProcessorRepository;
 
 import java.util.HashMap;

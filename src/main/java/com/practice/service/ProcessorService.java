@@ -1,6 +1,6 @@
 package com.practice.service;
 
-import com.practice.ProcessConstant;
+import com.practice.constant.ProcessConstant;
 import com.practice.exception.ProcessorException;
 import com.practice.executor.RepositoryExecutor;
 import com.practice.repository.ProcessorRepository;
